@@ -1,16 +1,15 @@
-# AdvCpp_FinalProject
-Hopefully a simple game
+# Moon Man
+Traversing the moon and colonizing that land!
 
 ## Specifications
 
-- Must use polymorphism
-- Must use Inheritance
+- Must use Inheritance : Derived classes (player vs playera)
 - Must use File I/O
 
 ## Ideas
 - a Platformer game where I can add some basic tiles
 - One level (use Paint or GIMP for tile sheet)
-- Use OpenGL and glew, etc
+- Use SFML (teaching myself)
 - Learning experience for me
 
 ## Keep a log of progress to stay on track
