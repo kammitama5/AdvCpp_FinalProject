@@ -27,7 +27,7 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - Week two:  11/6 to 11/11 (you are out of town on the 9th: Haskell!) - sprite sheet and bkground done
 - Week three: 11/13 to 11/18 - sprite sheet and background load
 - Week four: 11/20 to 11/25 - menu button works for quit
-- Week five: 11/27 to 12/2 - sprite animation and input handling + physics (jumping)
+- Week five: 11/27 to 12/2 - sprite animation and input handling + physics (jumping), pause, sound
 - three days 12/3 to 12/6 (final exam on 12/6) - (you'll actually not be in town)
 - Week six: 12/7 to 12/8 (Thurs + Friday) - physics (gravity)
 - Week seven: 12/11 and 12/12: General debugging and write-up (UML, write-up, submit files)
