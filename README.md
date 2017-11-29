@@ -10,7 +10,7 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - exception handling (For each file I/O)
 
 ## Used (IDEs, etc)
-- SFML 2.4
+- SFML 2.4.2
 - Visual Studio 2013 (C++)
 - GIMP (textures)
 - Piskel (sprite Sheet)
@@ -39,5 +39,5 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - menu
 - input (pause game, return to state when die)
 - enemies
-- sound
+- sound (already set up -> needs to not interfere with functionality/optimization of game)
 
