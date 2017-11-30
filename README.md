@@ -33,7 +33,8 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - Week seven: 12/11 and 12/12: General debugging and write-up (UML, write-up, submit files)
 
 ## Can continue working on game after class is done
-- collision
+- Window border collision
+- collision between ground and player
 - physics (gravity, atmosphere)
 - views
 - menu
