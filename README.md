@@ -4,10 +4,12 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 ## Specifications
 
 - Must use Inheritance : Derived classes (player inherits sprite)
-- Must use File I/O (sprite, background, quit button)
+- Must use File I/O (sprite, background, quit button, sound file)
 
 ## Things I did use additionally
 - exception handling (For each file I/O)
+- Mouse XY position output (to help with positioning)
+- window gain/ (focus vs lose focus)
 
 ## Used (IDEs, etc)
 - SFML 2.4.2
@@ -42,3 +44,8 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - enemies
 - sound (already set up -> needs to not interfere with functionality/optimization of game)
 
+## Concepts I learned
+- delta with Posix
+- clamping
+- AABB collision vs pixel-based
+- ogg vs wav and mp3 (differences in formats)
