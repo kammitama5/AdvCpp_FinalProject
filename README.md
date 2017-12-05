@@ -49,3 +49,5 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - clamping
 - AABB collision vs pixel-based
 - ogg vs wav and mp3 (differences in formats)
+
+<img src="/images/buzzstart.png" width="500">
