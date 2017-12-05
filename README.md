@@ -50,4 +50,14 @@ Traversing the moon and colonizing that land! Character's name is Buzz :)
 - AABB collision vs pixel-based
 - ogg vs wav and mp3 (differences in formats)
 
-<img src="buzzstart.png" width="500">
+## This project is a WIP
+
+- I was able to work on it to get the basic elements set up, but I am continually working on it.
+
+- To run, you need to download SFML (I used 2.4.0)
+- Take the files folder and put it in your project
+- Take the code files and put that in your project
+- Compile and run 
+
+
+<img src="buzzstart.png" width="400">
